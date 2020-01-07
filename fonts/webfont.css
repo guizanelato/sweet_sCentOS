@@ -1,0 +1,243 @@
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 100;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-thin.woff2') format('woff2'), url('woff/iosevka-ss07-thin.woff') format('woff'), url('ttf/iosevka-ss07-thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 100;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-thinoblique.woff2') format('woff2'), url('woff/iosevka-ss07-thinoblique.woff') format('woff'), url('ttf/iosevka-ss07-thinoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 100;
+	src: url('woff2/iosevka-ss07-thinoblique.woff2') format('woff2'), url('woff/iosevka-ss07-thinoblique.woff') format('woff'), url('ttf/iosevka-ss07-thinoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 100;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-thinitalic.woff2') format('woff2'), url('woff/iosevka-ss07-thinitalic.woff') format('woff'), url('ttf/iosevka-ss07-thinitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 200;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-extralight.woff2') format('woff2'), url('woff/iosevka-ss07-extralight.woff') format('woff'), url('ttf/iosevka-ss07-extralight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 200;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-extralightoblique.woff2') format('woff2'), url('woff/iosevka-ss07-extralightoblique.woff') format('woff'), url('ttf/iosevka-ss07-extralightoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 200;
+	src: url('woff2/iosevka-ss07-extralightoblique.woff2') format('woff2'), url('woff/iosevka-ss07-extralightoblique.woff') format('woff'), url('ttf/iosevka-ss07-extralightoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 200;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-extralightitalic.woff2') format('woff2'), url('woff/iosevka-ss07-extralightitalic.woff') format('woff'), url('ttf/iosevka-ss07-extralightitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 300;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-light.woff2') format('woff2'), url('woff/iosevka-ss07-light.woff') format('woff'), url('ttf/iosevka-ss07-light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 300;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-lightoblique.woff2') format('woff2'), url('woff/iosevka-ss07-lightoblique.woff') format('woff'), url('ttf/iosevka-ss07-lightoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 300;
+	src: url('woff2/iosevka-ss07-lightoblique.woff2') format('woff2'), url('woff/iosevka-ss07-lightoblique.woff') format('woff'), url('ttf/iosevka-ss07-lightoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 300;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-lightitalic.woff2') format('woff2'), url('woff/iosevka-ss07-lightitalic.woff') format('woff'), url('ttf/iosevka-ss07-lightitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 400;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-regular.woff2') format('woff2'), url('woff/iosevka-ss07-regular.woff') format('woff'), url('ttf/iosevka-ss07-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 400;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-oblique.woff2') format('woff2'), url('woff/iosevka-ss07-oblique.woff') format('woff'), url('ttf/iosevka-ss07-oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 400;
+	src: url('woff2/iosevka-ss07-oblique.woff2') format('woff2'), url('woff/iosevka-ss07-oblique.woff') format('woff'), url('ttf/iosevka-ss07-oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 400;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-italic.woff2') format('woff2'), url('woff/iosevka-ss07-italic.woff') format('woff'), url('ttf/iosevka-ss07-italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 500;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-medium.woff2') format('woff2'), url('woff/iosevka-ss07-medium.woff') format('woff'), url('ttf/iosevka-ss07-medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 500;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-mediumoblique.woff2') format('woff2'), url('woff/iosevka-ss07-mediumoblique.woff') format('woff'), url('ttf/iosevka-ss07-mediumoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 500;
+	src: url('woff2/iosevka-ss07-mediumoblique.woff2') format('woff2'), url('woff/iosevka-ss07-mediumoblique.woff') format('woff'), url('ttf/iosevka-ss07-mediumoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 500;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-mediumitalic.woff2') format('woff2'), url('woff/iosevka-ss07-mediumitalic.woff') format('woff'), url('ttf/iosevka-ss07-mediumitalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 600;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-semibold.woff2') format('woff2'), url('woff/iosevka-ss07-semibold.woff') format('woff'), url('ttf/iosevka-ss07-semibold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 600;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-semiboldoblique.woff2') format('woff2'), url('woff/iosevka-ss07-semiboldoblique.woff') format('woff'), url('ttf/iosevka-ss07-semiboldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 600;
+	src: url('woff2/iosevka-ss07-semiboldoblique.woff2') format('woff2'), url('woff/iosevka-ss07-semiboldoblique.woff') format('woff'), url('ttf/iosevka-ss07-semiboldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 600;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-semibolditalic.woff2') format('woff2'), url('woff/iosevka-ss07-semibolditalic.woff') format('woff'), url('ttf/iosevka-ss07-semibolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 700;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-bold.woff2') format('woff2'), url('woff/iosevka-ss07-bold.woff') format('woff'), url('ttf/iosevka-ss07-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 700;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-boldoblique.woff2') format('woff2'), url('woff/iosevka-ss07-boldoblique.woff') format('woff'), url('ttf/iosevka-ss07-boldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 700;
+	src: url('woff2/iosevka-ss07-boldoblique.woff2') format('woff2'), url('woff/iosevka-ss07-boldoblique.woff') format('woff'), url('ttf/iosevka-ss07-boldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 700;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-bolditalic.woff2') format('woff2'), url('woff/iosevka-ss07-bolditalic.woff') format('woff'), url('ttf/iosevka-ss07-bolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 800;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-extrabold.woff2') format('woff2'), url('woff/iosevka-ss07-extrabold.woff') format('woff'), url('ttf/iosevka-ss07-extrabold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 800;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-extraboldoblique.woff2') format('woff2'), url('woff/iosevka-ss07-extraboldoblique.woff') format('woff'), url('ttf/iosevka-ss07-extraboldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 800;
+	src: url('woff2/iosevka-ss07-extraboldoblique.woff2') format('woff2'), url('woff/iosevka-ss07-extraboldoblique.woff') format('woff'), url('ttf/iosevka-ss07-extraboldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 800;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-extrabolditalic.woff2') format('woff2'), url('woff/iosevka-ss07-extrabolditalic.woff') format('woff'), url('ttf/iosevka-ss07-extrabolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 900;
+	font-style: normal;
+	src: url('woff2/iosevka-ss07-heavy.woff2') format('woff2'), url('woff/iosevka-ss07-heavy.woff') format('woff'), url('ttf/iosevka-ss07-heavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 900;
+	font-style: oblique;
+	src: url('woff2/iosevka-ss07-heavyoblique.woff2') format('woff2'), url('woff/iosevka-ss07-heavyoblique.woff') format('woff'), url('ttf/iosevka-ss07-heavyoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web Oblique';
+	font-weight: 900;
+	src: url('woff2/iosevka-ss07-heavyoblique.woff2') format('woff2'), url('woff/iosevka-ss07-heavyoblique.woff') format('woff'), url('ttf/iosevka-ss07-heavyoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka SS07 Web';
+	font-weight: 900;
+	font-style: italic;
+	src: url('woff2/iosevka-ss07-heavyitalic.woff2') format('woff2'), url('woff/iosevka-ss07-heavyitalic.woff') format('woff'), url('ttf/iosevka-ss07-heavyitalic.ttf') format('truetype');
+}

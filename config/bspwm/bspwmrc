@@ -1,0 +1,39 @@
+#! /bin/sh
+
+# inicializar
+sxhkd &
+feh --bg-fill ~/.wallpapers/tokyo-rain.jpg & 
+compton --config ~/.config/compton/compton.conf  & 
+setxkbmap us intl & 
+$(bash ~/.bar/panel) &
+
+#bordas
+bspc config top_padding        24
+bspc config bottom_padding     0
+bspc config left_padding       0
+bspc config right_padding      0
+bspc config border_width       2
+bspc config window_gap         16
+
+#cores 
+bspc config active_border_color '#004445'
+bspc config normal_border_color '#0C1115'
+bspc config focused_border_color '#2C786C'
+
+
+#regras
+bspc monitor -d  I II III IV V VI
+
+bspc config border_width         2
+bspc config window_gap          12
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+bspc config focus_follows_pointer true
+
+bspc rule -a Gimp desktop='^3' state=floating follow=on
+bspc rule -a Firefox desktop='^2' state=floating follow=on
+#bspc rule -a mplayer2 state=floating
+#bspc rule -a Kupfer.py focus=on
+#bspc rule -a Screenkey manage=off

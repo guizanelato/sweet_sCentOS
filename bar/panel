@@ -1,0 +1,1 @@
+(sleep 1s && bash /home/guizanelato/.bar/lemonbar.sh | lemonbar -g 900x18+500+2 -p -f "Fantasque Sans Mono"-12  -f "Font Awesome"-12 -f "Font Awesome 5 Brands Regular"-10 -F#FFFFFFFF -B#004445 | lemonbar -g 900x20+500+0 -B#2C786C)

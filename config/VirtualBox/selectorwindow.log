@@ -1,0 +1,17 @@
+00:00:00.331214 VirtualBox GUI VM Selector Window 6.0.14 r133895 linux.amd64 (Oct 10 2019 20:29:51) release log
+00:00:00.331216 Log opened 2020-01-03T16:37:09.537491000Z
+00:00:00.331217 Build Type: release
+00:00:00.331221 OS Product: Linux
+00:00:00.331222 OS Release: 4.18.0-80.11.2.el8_0.x86_64
+00:00:00.331223 OS Version: #1 SMP Tue Sep 24 11:32:19 UTC 2019
+00:00:00.331257 DMI Product Name: Aspire A515-51G
+00:00:00.331268 DMI Product Version: V1.15
+00:00:00.331313 Host RAM: 19785MB (19.3GB) total, 16527MB (16.1GB) available
+00:00:00.331317 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.331318 Process ID: 16641
+00:00:00.331318 Package type: LINUX_64BITS_EL_8
+00:00:00.331340 Qt version: 5.11.1
+00:00:00.348933 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.348958 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.656892 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 12x36 x 1892x1028
+00:00:00.672000 Failed to open "/dev/vboxdrv", errno=1, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
